@@ -1,9 +1,0 @@
-1. git bash 실행
-2. pwd로 현재 위치 확인 (C:\Users\coding\Python_Jupyter 로 들어가야됨)
-3. " cd C/Users/coding/Python_Jupyter "입력
-4. " ls " 입력해서 폴더 문서 확인하기
-5. " git status "입력해서 현재 폴더 상태 확인(올라가 있는지 안올라가 있는지)
-6. " git add * "입력해서 모두 add 하기(git add file1.txt 이런식으로)
-7. " git status "입력해서 확인하기
-8. " git commit -m "first commit" "입력해서 git에 commit시키기
-9. " git push "입력해서 git에 올리기
